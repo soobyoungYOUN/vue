@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    남지현
+    윤수병
   </div>
 </template>
 

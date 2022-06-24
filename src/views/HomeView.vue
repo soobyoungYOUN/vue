@@ -5,7 +5,7 @@
       <span>{{ alias.name }}</span> : <span>{{ alias.age }}</span><br>
     </div>
     <button @click="btnClick">click me!</button>
-    <HelloWorld msg="Welcome to Your Vue.js App" name="남지현" />
+    <HelloWorld msg="Welcome to Your Vue.js App" name="윤수병" />
   </div>
 </template>
 
@@ -30,11 +30,11 @@ export default {
   data () {
     return {
       items: [
-        {name: "john", age: 31},
-        {name: "tom", age: 12},
-        {name: "danny", age: 22},
-        {name: "lydia", age: 30},
-        {name: "elena", age: 28},
+        // {name: "john", age: 31},
+        // {name: "tom", age: 12},
+        // {name: "danny", age: 22},
+        // {name: "lydia", age: 30},
+        // {name: "elena", age: 28},
         {name: "judy", age: 22}
       ]
     }

@@ -19,12 +19,11 @@ export default {
     data() {
         return {
             candidates: [
-                {name: "1. 윤수01", percentage: "50 (50%)", className: "bar-50"},
-                {name: "2. 윤수02", percentage: "10 (10%)", className: "bar-10"},
-                {name: "3. 윤수03", percentage: "10 (10%)", className: "bar-10"},
-                {name: "4. 윤수04", percentage: "10 (10%)", className: "bar-10"},
-                {name: "5. 윤수05", percentage: "5 (5%)", className: "bar-5"},
-                {name: "6. 김철수", percentage: "15 (15%)", className: "bar-15"},
+                {name: "1. 윤수01", percentage: "148 (29%)", className: "bar-29"},
+                {name: "2. 윤수02", percentage: "108 (21%)", className: "bar-21"},
+                {name: "3. 윤수03", percentage: "19 (15%)", className: "bar-15"},
+                {name: "4. 김철수", percentage: "166 (33%)", className: "bar-33"},
+                {name: "5. 김춘배", percentage: "0 (0%)", className: "bar-0"},
             ]
         }
     }
